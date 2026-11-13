@@ -8,7 +8,7 @@ body{
 }
 
 header{
-    background-image:url("image/backfroundheader.png");
+    background-image:url("../image/backfroundheader.png");
     color: white;
     text-align: center;
     margin: 0px;
@@ -34,7 +34,7 @@ nav a:hover{
 }
 
 footer{
-    background-image:url("image/backgroundfooter.jpg");
+    background-image:url("../image/backgroundfooter.jpg");
     text-align: center;
     padding: 10px;
     color: #444444;
@@ -47,7 +47,7 @@ footer h2 {
 section{
     float: left;
     width: 75%;
-    background-image:url("image/backgroundsection.jpg");
+    background-image:url("../image/backgroundsection.jpg");
     padding: 10px;
     color: #444444;
 }
